@@ -23,11 +23,11 @@
       |       |            |                     
 */
 
-$XBALTI_EMAIL = "chaselemmons424@gmail.com"; // Your Email Here :)
+$XBALTI_EMAIL = "urmom@gmail.com"; // Your Email Here :)
 
-$yourname = "chase"; // Your Name Here :)
+$yourname = ""; // Your Name Here :)
 
-$yourpass = "cool"; // Your Password Here :)
+$yourpass = ""; // Your Password Here :)
 
 ?>
 
